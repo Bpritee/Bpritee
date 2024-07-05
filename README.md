@@ -1,4 +1,4 @@
-<img src="[https://images.app.goo.gl/ujvgjmDdtBi3RZ9d6](https://www.google.com/url?sa=i&url=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&psig=AOvVaw04cjUTE8irUX2Q9FZuaz81&ust=1720286988491000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjclNG2kIcDFQAAAAAdAAAAABBD)" alt="coding" width="100" style="display: block; margin-left: auto; margin-right: auto;">
+
 
 <h1 align="center">Hi 👋, I'm Balabadruni Pritee</h1>
 <h3 align="center">Data Analytics | Data Science | Machine Learning</h3>
