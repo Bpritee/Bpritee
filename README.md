@@ -1,10 +1,10 @@
-<img align="center" alt="coding" width="100" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3lRrdvUDJkCZoqAncvDKs5&ust=1720286863033000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLC15oy2kIcDFQAAAAAdAAAAABAE">
+<img align="center" alt="coding" width="100" scr="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3lRrdvUDJkCZoqAncvDKs5&ust=1720286863033000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLC15oy2kIcDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F21824398-Lottie-Animation-Woman-working-on-laptop&psig=AOvVaw04cjUTE8irUX2Q9FZuaz81&ust=1720286988491000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjclNG2kIcDFQAAAAAdAAAAABAv)">
 <h1 align="center">Hi 👋, I'm Balabadruni Pritee</h1>
 <h3 align="center">Data Analytics | Data Science | Machine Learning</h3>
 
 <h3 align="center">- 💬 Ask me about **Python,Sql,Data Analytics/Science,Machine Learning**</h3>
 
-<h3 align="center">- 📫 Contact Me @ **balabadrunipritee@gmail.com**</h3>
+<h3 align="center">- 📫 Contact Me @ balabadrunipritee@gmail.com</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
