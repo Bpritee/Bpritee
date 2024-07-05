@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Balabadruni Pritee</h1>
 <h3 align="center">Data Analytics | Data Science | Machine Learning</h3>
 
-- 💬 Ask me about **Python,Sql,Data Analytics/Science,Machine Learning**
+<h3 align="center">- 💬 Ask me about **Python,Sql,Data Analytics/Science,Machine Learning**</h3>
 
-- 📫 Contact Me @ **balabadrunipritee@gmail.com**
+<h3 align="center">- 📫 Contact Me @ **balabadrunipritee@gmail.com**</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
