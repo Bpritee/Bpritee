@@ -1,3 +1,4 @@
+<img src="https://images.app.goo.gl/ujvgjmDdtBi3RZ9d6" alt="coding" width="100" style="display: block; margin-left: auto; margin-right: auto;">
 
 
 <h1 align="center">Hi 👋, I'm Balabadruni Pritee</h1>
